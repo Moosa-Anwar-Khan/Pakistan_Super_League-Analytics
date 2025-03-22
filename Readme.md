@@ -4,15 +4,15 @@ Following are the steps that will Help you to understand what I have done.
 
 1) First I performed clustering on "batsmen.csv" (clustering was performed on the basis of the batsman's "innings", "strike rate" and "average") and "bowlers.csv" (clustering was performed on the basis of the bowler's "economy", "strike rate" and "average").
 
-For Batsman:
-   - **Innings**: A period of batting in a match where a batsman faces deliveries.
-   - **Strike Rate**: The number of runs a batsman scores per 100 balls faced.
-   - **Average**: The average number of runs a batsman scores per dismissal (total runs divided by the number of times out).
-
-For Bowlers:  
-   - **Economy**: The number of runs a bowler concedes per over bowled.
-   - **Strike Rate**: The number of balls a bowler takes to dismiss a batsman.
-   - **Average**: The average number of runs a bowler gives per wicket taken (total runs conceded divided by the number of wickets taken).
+      For Batsman:
+         - **Innings**: A period of batting in a match where a batsman faces deliveries.
+         - **Strike Rate**: The number of runs a batsman scores per 100 balls faced.
+         - **Average**: The average number of runs a batsman scores per dismissal (total runs divided by the number of times out).
+      
+      For Bowlers:  
+         - **Economy**: The number of runs a bowler concedes per over bowled.
+         - **Strike Rate**: The number of balls a bowler takes to dismiss a batsman.
+         - **Average**: The average number of runs a bowler gives per wicket taken (total runs conceded divided by the number of wickets taken).
 
 2) After performing clustering, I created "batsmenLabel.csv" and "bowlersLabel.csv". The labels for batsmen and bowlers were generated on the basis of clustering. The labels for batsmen are "average_performer",     "good_performer", and "power_hitter". The labels for bowlers are "expensive_bowler" (meaning the bowler has given a lot of runs/score to opponents while bowling), "good_bowler", and "key_bowler".
 
