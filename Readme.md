@@ -23,4 +23,4 @@ For Bowlers:
 4) After performing analysis for bowlers and batsmen, I created csv file for selected batsmen and bowlers, namely, "batsmenSelected.csv" and "bowlersSelected.csv". I selected 9 batsmen and 7 bowlers for the team.
 
 
-5) I also performed decision tree classification, which is a supervised learning technique, on the files "batsmenLabel.csv" and "bowlersLabel.csv" so that I can predict the class of player by entering his "strike rate", "average" and "innings" in case of batsmen, and "strike rate", "average" and "economy" in case of bowlers. 
+5) I also performed decision tree classification, which is a supervised learning technique, on the files "batsmenLabel.csv" and "bowlersLabel.csv" so that I can predict the class of player by entering his "strike rate", "average" and "innings" in case of batsmen, and "strike rate", "average" and "economy" in case of bowlers.
