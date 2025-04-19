@@ -1,4 +1,4 @@
-I worked on a project in which I was provided with data on PSL players. My task was to select a 16-man squad for the T20 team of Pakistan. I was provided withunlabeled data, so I decided to perform unsupervised learning (K-means clustering) on both batsmen and bowlers.
+I worked on a project in which I was provided with data on PSL players. My task was to select a 16-man squad for the T20 team of Pakistan. I was provided with unlabeled data, so I decided to perform unsupervised learning (K-means clustering) on both batsmen and bowlers.
 
 Following are the steps that will Help you to understand what I have done.
 
